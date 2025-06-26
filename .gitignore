@@ -1,0 +1,13 @@
+Experiment/food101
+Experiment/images
+*.csv
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.npy
+*.pt
+*.h5
+__pycache__/
+.venv/
+Experiment/*.pth
